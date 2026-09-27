@@ -11,7 +11,7 @@ https://docs.djangoproject.com/en/6.1/ref/settings/
 """
 
 from pathlib import Path
-import os
+import os, socket
 
 from django.core.serializers import python
 
@@ -51,7 +51,7 @@ INSTALLED_APPS = [
 ]
 
 
-SITE_ID = 2
+SITE_ID = 3 if "pythonanywhere" in socket.gethostname() else 2
 
 AUTHENTICATION_BACKENDS = [
     'django.contrib.auth.backends.ModelBackend',
