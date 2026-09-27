@@ -1,0 +1,1134 @@
+[
+{
+  "model": "studentorg.college",
+  "pk": 1,
+  "fields": {
+    "created_at": "2026-09-23T22:35:20.738Z",
+    "updated_at": "2026-09-23T22:35:20.738Z",
+    "college_name": "College of Sciences"
+  }
+},
+{
+  "model": "studentorg.college",
+  "pk": 2,
+  "fields": {
+    "created_at": "2026-09-23T22:35:35.007Z",
+    "updated_at": "2026-09-23T22:35:35.008Z",
+    "college_name": "College of Engineering"
+  }
+},
+{
+  "model": "studentorg.college",
+  "pk": 3,
+  "fields": {
+    "created_at": "2026-09-23T22:35:49.276Z",
+    "updated_at": "2026-09-23T22:35:49.277Z",
+    "college_name": "College of Teacher Education"
+  }
+},
+{
+  "model": "studentorg.college",
+  "pk": 4,
+  "fields": {
+    "created_at": "2026-09-23T22:36:04.525Z",
+    "updated_at": "2026-09-23T22:36:04.525Z",
+    "college_name": "College of Business and Accountancy"
+  }
+},
+{
+  "model": "studentorg.college",
+  "pk": 5,
+  "fields": {
+    "created_at": "2026-09-23T22:36:22.860Z",
+    "updated_at": "2026-09-23T22:36:22.860Z",
+    "college_name": "College of Architecture and Design"
+  }
+},
+{
+  "model": "studentorg.college",
+  "pk": 6,
+  "fields": {
+    "created_at": "2026-09-23T22:37:07.584Z",
+    "updated_at": "2026-09-23T22:37:07.584Z",
+    "college_name": "College of Arts and Humanities"
+  }
+},
+{
+  "model": "studentorg.college",
+  "pk": 7,
+  "fields": {
+    "created_at": "2026-09-23T22:37:31.304Z",
+    "updated_at": "2026-09-23T22:37:31.304Z",
+    "college_name": "College of Criminal Justice Education"
+  }
+},
+{
+  "model": "studentorg.college",
+  "pk": 8,
+  "fields": {
+    "created_at": "2026-09-23T22:37:54.768Z",
+    "updated_at": "2026-09-23T22:37:54.768Z",
+    "college_name": "College of Hospitality Management and Tourism"
+  }
+},
+{
+  "model": "studentorg.college",
+  "pk": 9,
+  "fields": {
+    "created_at": "2026-09-23T22:38:14.640Z",
+    "updated_at": "2026-09-23T22:38:14.640Z",
+    "college_name": "College of Nursing and Health Science"
+  }
+},
+{
+  "model": "studentorg.program",
+  "pk": 1,
+  "fields": {
+    "created_at": "2026-09-23T22:40:27.662Z",
+    "updated_at": "2026-09-23T22:40:27.662Z",
+    "prog_name": "Bachelor of Science in Computer Science",
+    "college": 1
+  }
+},
+{
+  "model": "studentorg.program",
+  "pk": 2,
+  "fields": {
+    "created_at": "2026-09-23T22:40:38.708Z",
+    "updated_at": "2026-09-23T22:40:38.708Z",
+    "prog_name": "Bachelor of Arts in Communication",
+    "college": 6
+  }
+},
+{
+  "model": "studentorg.program",
+  "pk": 3,
+  "fields": {
+    "created_at": "2026-09-23T22:40:55.072Z",
+    "updated_at": "2026-09-23T22:40:55.072Z",
+    "prog_name": "Bachelor of Science in Accountancy",
+    "college": 4
+  }
+},
+{
+  "model": "studentorg.program",
+  "pk": 4,
+  "fields": {
+    "created_at": "2026-09-23T22:41:09.447Z",
+    "updated_at": "2026-09-23T22:41:09.447Z",
+    "prog_name": "Bachelor of Science in Criminology",
+    "college": 7
+  }
+},
+{
+  "model": "studentorg.program",
+  "pk": 5,
+  "fields": {
+    "created_at": "2026-09-23T22:41:33.573Z",
+    "updated_at": "2026-09-23T22:41:33.573Z",
+    "prog_name": "Bachelor of Science in Tourism Management",
+    "college": 8
+  }
+},
+{
+  "model": "studentorg.program",
+  "pk": 6,
+  "fields": {
+    "created_at": "2026-09-23T22:41:47.899Z",
+    "updated_at": "2026-09-23T22:41:47.900Z",
+    "prog_name": "Bachelor of Science in Nursing",
+    "college": 9
+  }
+},
+{
+  "model": "studentorg.program",
+  "pk": 7,
+  "fields": {
+    "created_at": "2026-09-23T22:42:12.352Z",
+    "updated_at": "2026-09-23T22:42:12.352Z",
+    "prog_name": "Bachelor of Science in Information Technology",
+    "college": 1
+  }
+},
+{
+  "model": "studentorg.program",
+  "pk": 8,
+  "fields": {
+    "created_at": "2026-09-23T22:42:30.902Z",
+    "updated_at": "2026-09-23T22:42:30.902Z",
+    "prog_name": "Bachelor of Elementary Education",
+    "college": 3
+  }
+},
+{
+  "model": "studentorg.program",
+  "pk": 9,
+  "fields": {
+    "created_at": "2026-09-23T22:43:13.385Z",
+    "updated_at": "2026-09-23T22:43:13.385Z",
+    "prog_name": "Bachelor of Science in Architecture",
+    "college": 5
+  }
+},
+{
+  "model": "studentorg.program",
+  "pk": 10,
+  "fields": {
+    "created_at": "2026-09-23T22:44:43.909Z",
+    "updated_at": "2026-09-23T22:44:43.909Z",
+    "prog_name": "Bachelor of Science in Civil Engineering",
+    "college": 2
+  }
+},
+{
+  "model": "studentorg.organization",
+  "pk": 1,
+  "fields": {
+    "created_at": "2026-09-23T22:45:59.404Z",
+    "updated_at": "2026-09-23T22:45:59.404Z",
+    "name": "Association of Computer Scientists",
+    "college": 1,
+    "description": "Organization for Computer Science Students"
+  }
+},
+{
+  "model": "studentorg.organization",
+  "pk": 2,
+  "fields": {
+    "created_at": "2026-09-23T22:47:18.040Z",
+    "updated_at": "2026-09-23T22:47:18.040Z",
+    "name": "Society of Information Technology Enthusiasts",
+    "college": 1,
+    "description": "Organization for Information Technology Students"
+  }
+},
+{
+  "model": "studentorg.organization",
+  "pk": 3,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.093Z",
+    "updated_at": "2026-09-23T22:59:27.093Z",
+    "name": "Action\nArtist",
+    "college": 6,
+    "description": "Kitchen toward recent foot turn approach industry."
+  }
+},
+{
+  "model": "studentorg.organization",
+  "pk": 4,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.137Z",
+    "updated_at": "2026-09-23T22:59:27.137Z",
+    "name": "Imagine\nCrime",
+    "college": 6,
+    "description": "Take idea positive happen natural interview speak."
+  }
+},
+{
+  "model": "studentorg.organization",
+  "pk": 5,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.160Z",
+    "updated_at": "2026-09-23T22:59:27.160Z",
+    "name": "Pass\nTown",
+    "college": 8,
+    "description": "Possible sure yes."
+  }
+},
+{
+  "model": "studentorg.organization",
+  "pk": 6,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.177Z",
+    "updated_at": "2026-09-23T22:59:27.177Z",
+    "name": "Whatever\nFrom",
+    "college": 8,
+    "description": "Show item huge consumer thousand."
+  }
+},
+{
+  "model": "studentorg.organization",
+  "pk": 7,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.200Z",
+    "updated_at": "2026-09-23T22:59:27.200Z",
+    "name": "Key\nThough",
+    "college": 6,
+    "description": "Team over western stuff go crime."
+  }
+},
+{
+  "model": "studentorg.organization",
+  "pk": 8,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.217Z",
+    "updated_at": "2026-09-23T22:59:27.217Z",
+    "name": "Police\nItself",
+    "college": 8,
+    "description": "Strong painting contain agreement plant quite structure."
+  }
+},
+{
+  "model": "studentorg.organization",
+  "pk": 9,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.235Z",
+    "updated_at": "2026-09-23T22:59:27.235Z",
+    "name": "Strategy\nAuthority",
+    "college": 2,
+    "description": "Mr major situation catch professional street."
+  }
+},
+{
+  "model": "studentorg.organization",
+  "pk": 10,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.274Z",
+    "updated_at": "2026-09-23T22:59:27.274Z",
+    "name": "Mr\nPrepare",
+    "college": 5,
+    "description": "Almost organization behavior item race."
+  }
+},
+{
+  "model": "studentorg.organization",
+  "pk": 11,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.289Z",
+    "updated_at": "2026-09-23T22:59:27.289Z",
+    "name": "Important\nStudy",
+    "college": 2,
+    "description": "Guy purpose station increase."
+  }
+},
+{
+  "model": "studentorg.organization",
+  "pk": 12,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.302Z",
+    "updated_at": "2026-09-23T22:59:27.302Z",
+    "name": "Standard\nWork",
+    "college": 3,
+    "description": "Discussion apply admit officer provide."
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 1,
+  "fields": {
+    "created_at": "2026-09-23T22:48:34.934Z",
+    "updated_at": "2026-09-23T22:48:34.934Z",
+    "student_id": "2017-8-0049",
+    "lastname": "Cerdeña",
+    "firstname": "Ralph Jeffrey",
+    "middlename": "Alismo",
+    "program": 1
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 2,
+  "fields": {
+    "created_at": "2026-09-23T22:49:17.923Z",
+    "updated_at": "2026-09-23T22:50:12.012Z",
+    "student_id": "2024-8-1039",
+    "lastname": "De Vera",
+    "firstname": "Renzo",
+    "middlename": "Alismo",
+    "program": 7
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 3,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.587Z",
+    "updated_at": "2026-09-23T22:59:27.587Z",
+    "student_id": "2020-2-9069",
+    "lastname": "Meza",
+    "firstname": "Scott",
+    "middlename": "Garcia",
+    "program": 6
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 4,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.618Z",
+    "updated_at": "2026-09-23T22:59:27.618Z",
+    "student_id": "2024-5-4849",
+    "lastname": "Williams",
+    "firstname": "Nicole",
+    "middlename": "Schneider",
+    "program": 1
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 5,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.637Z",
+    "updated_at": "2026-09-23T22:59:27.637Z",
+    "student_id": "2023-3-8400",
+    "lastname": "Sandoval",
+    "firstname": "Brittany",
+    "middlename": "Gomez",
+    "program": 4
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 6,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.654Z",
+    "updated_at": "2026-09-23T22:59:27.654Z",
+    "student_id": "2020-6-9040",
+    "lastname": "Taylor",
+    "firstname": "Timothy",
+    "middlename": "Koch",
+    "program": 3
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 7,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.667Z",
+    "updated_at": "2026-09-23T22:59:27.667Z",
+    "student_id": "2022-3-262",
+    "lastname": "Barrett",
+    "firstname": "Craig",
+    "middlename": "Everett",
+    "program": 2
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 8,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.679Z",
+    "updated_at": "2026-09-23T22:59:27.679Z",
+    "student_id": "2024-3-308",
+    "lastname": "Richardson",
+    "firstname": "Lisa",
+    "middlename": "Bolton",
+    "program": 5
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 9,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.690Z",
+    "updated_at": "2026-09-23T22:59:27.690Z",
+    "student_id": "2025-5-5663",
+    "lastname": "Bridges",
+    "firstname": "Matthew",
+    "middlename": "Mendoza",
+    "program": 8
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 10,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.699Z",
+    "updated_at": "2026-09-23T22:59:27.699Z",
+    "student_id": "2023-5-1009",
+    "lastname": "Harris",
+    "firstname": "Donna",
+    "middlename": "Carpenter",
+    "program": 1
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 11,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.711Z",
+    "updated_at": "2026-09-23T22:59:27.711Z",
+    "student_id": "2023-7-708",
+    "lastname": "Wallace",
+    "firstname": "Darren",
+    "middlename": "Clark",
+    "program": 3
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 12,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.723Z",
+    "updated_at": "2026-09-23T22:59:27.723Z",
+    "student_id": "2024-1-809",
+    "lastname": "Jackson",
+    "firstname": "Monica",
+    "middlename": "Lewis",
+    "program": 4
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 13,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.733Z",
+    "updated_at": "2026-09-23T22:59:27.733Z",
+    "student_id": "2023-5-3368",
+    "lastname": "Burns",
+    "firstname": "Zachary",
+    "middlename": "Scott",
+    "program": 9
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 14,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.744Z",
+    "updated_at": "2026-09-23T22:59:27.744Z",
+    "student_id": "2024-8-3488",
+    "lastname": "Hernandez",
+    "firstname": "Russell",
+    "middlename": "Brown",
+    "program": 1
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 15,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.757Z",
+    "updated_at": "2026-09-23T22:59:27.757Z",
+    "student_id": "2021-3-9669",
+    "lastname": "Murphy",
+    "firstname": "Jennifer",
+    "middlename": "Moreno",
+    "program": 9
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 16,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.772Z",
+    "updated_at": "2026-09-23T22:59:27.772Z",
+    "student_id": "2024-2-4385",
+    "lastname": "Phillips",
+    "firstname": "James",
+    "middlename": "Leonard",
+    "program": 7
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 17,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.785Z",
+    "updated_at": "2026-09-23T22:59:27.785Z",
+    "student_id": "2023-2-3014",
+    "lastname": "Little",
+    "firstname": "Valerie",
+    "middlename": "Mills",
+    "program": 5
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 18,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.797Z",
+    "updated_at": "2026-09-23T22:59:27.797Z",
+    "student_id": "2021-2-7662",
+    "lastname": "Bennett",
+    "firstname": "Harold",
+    "middlename": "Carney",
+    "program": 4
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 19,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.809Z",
+    "updated_at": "2026-09-23T22:59:27.809Z",
+    "student_id": "2023-8-7373",
+    "lastname": "Wolf",
+    "firstname": "Brian",
+    "middlename": "Jordan",
+    "program": 7
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 20,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.821Z",
+    "updated_at": "2026-09-23T22:59:27.821Z",
+    "student_id": "2021-6-5561",
+    "lastname": "Anderson",
+    "firstname": "Noah",
+    "middlename": "Cantu",
+    "program": 6
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 21,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.832Z",
+    "updated_at": "2026-09-23T22:59:27.832Z",
+    "student_id": "2021-2-1152",
+    "lastname": "Clark",
+    "firstname": "Deanna",
+    "middlename": "James",
+    "program": 4
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 22,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.842Z",
+    "updated_at": "2026-09-23T22:59:27.842Z",
+    "student_id": "2023-8-8631",
+    "lastname": "Haley",
+    "firstname": "Michael",
+    "middlename": "Santana",
+    "program": 3
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 23,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.852Z",
+    "updated_at": "2026-09-23T22:59:27.852Z",
+    "student_id": "2023-8-7024",
+    "lastname": "Moore",
+    "firstname": "Janet",
+    "middlename": "Faulkner",
+    "program": 7
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 24,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.863Z",
+    "updated_at": "2026-09-23T22:59:27.863Z",
+    "student_id": "2020-8-4796",
+    "lastname": "Powers",
+    "firstname": "Kara",
+    "middlename": "Watson",
+    "program": 7
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 25,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.873Z",
+    "updated_at": "2026-09-23T22:59:27.873Z",
+    "student_id": "2021-3-1884",
+    "lastname": "Davis",
+    "firstname": "Joshua",
+    "middlename": "Smith",
+    "program": 8
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 26,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.882Z",
+    "updated_at": "2026-09-23T22:59:27.882Z",
+    "student_id": "2024-6-6582",
+    "lastname": "Rodriguez",
+    "firstname": "Austin",
+    "middlename": "Marsh",
+    "program": 5
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 27,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.892Z",
+    "updated_at": "2026-09-23T22:59:27.892Z",
+    "student_id": "2021-4-1514",
+    "lastname": "Clark",
+    "firstname": "Anthony",
+    "middlename": "Gonzales",
+    "program": 10
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 28,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.903Z",
+    "updated_at": "2026-09-23T22:59:27.903Z",
+    "student_id": "2024-8-9324",
+    "lastname": "Clayton",
+    "firstname": "Erin",
+    "middlename": "Adams",
+    "program": 2
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 29,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.915Z",
+    "updated_at": "2026-09-23T22:59:27.915Z",
+    "student_id": "2025-5-4329",
+    "lastname": "Moran",
+    "firstname": "Sarah",
+    "middlename": "Arias",
+    "program": 7
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 30,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.926Z",
+    "updated_at": "2026-09-23T22:59:27.926Z",
+    "student_id": "2022-8-8501",
+    "lastname": "Brown",
+    "firstname": "Edward",
+    "middlename": "Haley",
+    "program": 3
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 31,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.936Z",
+    "updated_at": "2026-09-23T22:59:27.937Z",
+    "student_id": "2021-6-6319",
+    "lastname": "Schultz",
+    "firstname": "Suzanne",
+    "middlename": "Lee",
+    "program": 1
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 32,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.951Z",
+    "updated_at": "2026-09-23T22:59:27.951Z",
+    "student_id": "2025-7-9639",
+    "lastname": "Miller",
+    "firstname": "Nicholas",
+    "middlename": "Faulkner",
+    "program": 9
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 33,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.965Z",
+    "updated_at": "2026-09-23T22:59:27.965Z",
+    "student_id": "2024-3-1168",
+    "lastname": "Harris",
+    "firstname": "Jonathan",
+    "middlename": "Davis",
+    "program": 5
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 34,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.974Z",
+    "updated_at": "2026-09-23T22:59:27.974Z",
+    "student_id": "2023-7-4781",
+    "lastname": "Sanford",
+    "firstname": "Yesenia",
+    "middlename": "Pacheco",
+    "program": 8
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 35,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.986Z",
+    "updated_at": "2026-09-23T22:59:27.986Z",
+    "student_id": "2021-2-2507",
+    "lastname": "Hines",
+    "firstname": "Phyllis",
+    "middlename": "Duncan",
+    "program": 8
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 36,
+  "fields": {
+    "created_at": "2026-09-23T22:59:27.995Z",
+    "updated_at": "2026-09-23T22:59:27.995Z",
+    "student_id": "2021-4-8853",
+    "lastname": "Bell",
+    "firstname": "Melissa",
+    "middlename": "Cohen",
+    "program": 2
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 37,
+  "fields": {
+    "created_at": "2026-09-23T22:59:28.005Z",
+    "updated_at": "2026-09-23T22:59:28.005Z",
+    "student_id": "2021-8-8421",
+    "lastname": "Kirk",
+    "firstname": "Courtney",
+    "middlename": "Mcdaniel",
+    "program": 8
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 38,
+  "fields": {
+    "created_at": "2026-09-23T22:59:28.018Z",
+    "updated_at": "2026-09-23T22:59:28.018Z",
+    "student_id": "2022-4-4276",
+    "lastname": "Moreno",
+    "firstname": "Cathy",
+    "middlename": "Garcia",
+    "program": 3
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 39,
+  "fields": {
+    "created_at": "2026-09-23T22:59:28.031Z",
+    "updated_at": "2026-09-23T22:59:28.031Z",
+    "student_id": "2022-1-2746",
+    "lastname": "Reyes",
+    "firstname": "Michael",
+    "middlename": "Cervantes",
+    "program": 4
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 40,
+  "fields": {
+    "created_at": "2026-09-23T22:59:28.043Z",
+    "updated_at": "2026-09-23T22:59:28.043Z",
+    "student_id": "2025-8-590",
+    "lastname": "Payne",
+    "firstname": "Sarah",
+    "middlename": "Wheeler",
+    "program": 6
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 41,
+  "fields": {
+    "created_at": "2026-09-23T22:59:28.053Z",
+    "updated_at": "2026-09-23T22:59:28.053Z",
+    "student_id": "2023-7-2778",
+    "lastname": "Vega",
+    "firstname": "Kyle",
+    "middlename": "Henry",
+    "program": 3
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 42,
+  "fields": {
+    "created_at": "2026-09-23T22:59:28.063Z",
+    "updated_at": "2026-09-23T22:59:28.063Z",
+    "student_id": "2024-8-4654",
+    "lastname": "Hernandez",
+    "firstname": "Nathan",
+    "middlename": "Banks",
+    "program": 10
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 43,
+  "fields": {
+    "created_at": "2026-09-23T22:59:28.073Z",
+    "updated_at": "2026-09-23T22:59:28.073Z",
+    "student_id": "2023-4-1065",
+    "lastname": "Hill",
+    "firstname": "David",
+    "middlename": "Mcdonald",
+    "program": 1
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 44,
+  "fields": {
+    "created_at": "2026-09-23T22:59:28.087Z",
+    "updated_at": "2026-09-23T22:59:28.087Z",
+    "student_id": "2020-5-4305",
+    "lastname": "Mitchell",
+    "firstname": "Melissa",
+    "middlename": "Richmond",
+    "program": 8
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 45,
+  "fields": {
+    "created_at": "2026-09-23T22:59:28.098Z",
+    "updated_at": "2026-09-23T22:59:28.098Z",
+    "student_id": "2022-2-2272",
+    "lastname": "Campos",
+    "firstname": "Tiffany",
+    "middlename": "Johnston",
+    "program": 4
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 46,
+  "fields": {
+    "created_at": "2026-09-23T22:59:28.121Z",
+    "updated_at": "2026-09-23T22:59:28.121Z",
+    "student_id": "2024-2-6389",
+    "lastname": "Shaw",
+    "firstname": "Robert",
+    "middlename": "Clements",
+    "program": 10
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 47,
+  "fields": {
+    "created_at": "2026-09-23T22:59:28.131Z",
+    "updated_at": "2026-09-23T22:59:28.131Z",
+    "student_id": "2021-8-1395",
+    "lastname": "Garcia",
+    "firstname": "Christina",
+    "middlename": "Bird",
+    "program": 1
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 48,
+  "fields": {
+    "created_at": "2026-09-23T22:59:28.144Z",
+    "updated_at": "2026-09-23T22:59:28.144Z",
+    "student_id": "2022-7-2802",
+    "lastname": "Jennings",
+    "firstname": "Lori",
+    "middlename": "Nelson",
+    "program": 9
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 49,
+  "fields": {
+    "created_at": "2026-09-23T22:59:28.157Z",
+    "updated_at": "2026-09-23T22:59:28.157Z",
+    "student_id": "2023-7-3111",
+    "lastname": "Stewart",
+    "firstname": "Jennifer",
+    "middlename": "Larsen",
+    "program": 2
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 50,
+  "fields": {
+    "created_at": "2026-09-23T22:59:28.171Z",
+    "updated_at": "2026-09-23T22:59:28.171Z",
+    "student_id": "2022-6-412",
+    "lastname": "King",
+    "firstname": "April",
+    "middlename": "Russell",
+    "program": 8
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 51,
+  "fields": {
+    "created_at": "2026-09-23T22:59:28.181Z",
+    "updated_at": "2026-09-23T22:59:28.182Z",
+    "student_id": "2020-8-8876",
+    "lastname": "Bradshaw",
+    "firstname": "Brian",
+    "middlename": "Nelson",
+    "program": 6
+  }
+},
+{
+  "model": "studentorg.student",
+  "pk": 52,
+  "fields": {
+    "created_at": "2026-09-23T22:59:28.192Z",
+    "updated_at": "2026-09-23T22:59:28.192Z",
+    "student_id": "2025-8-8791",
+    "lastname": "Ochoa",
+    "firstname": "Wendy",
+    "middlename": "Osborne",
+    "program": 9
+  }
+},
+{
+  "model": "studentorg.orgmember",
+  "pk": 1,
+  "fields": {
+    "created_at": "2026-09-23T22:49:55.637Z",
+    "updated_at": "2026-09-23T22:49:55.637Z",
+    "student": 1,
+    "organization": 1,
+    "date_joined": "2026-09-23"
+  }
+},
+{
+  "model": "studentorg.orgmember",
+  "pk": 2,
+  "fields": {
+    "created_at": "2026-09-23T22:50:27.915Z",
+    "updated_at": "2026-09-23T22:50:27.915Z",
+    "student": 2,
+    "organization": 2,
+    "date_joined": "2026-09-23"
+  }
+},
+{
+  "model": "studentorg.orgmember",
+  "pk": 3,
+  "fields": {
+    "created_at": "2026-09-23T22:59:28.208Z",
+    "updated_at": "2026-09-23T22:59:28.208Z",
+    "student": 7,
+    "organization": 3,
+    "date_joined": "2025-11-27"
+  }
+},
+{
+  "model": "studentorg.orgmember",
+  "pk": 4,
+  "fields": {
+    "created_at": "2026-09-23T22:59:28.229Z",
+    "updated_at": "2026-09-23T22:59:28.230Z",
+    "student": 37,
+    "organization": 12,
+    "date_joined": "2024-10-27"
+  }
+},
+{
+  "model": "studentorg.orgmember",
+  "pk": 5,
+  "fields": {
+    "created_at": "2026-09-23T22:59:28.264Z",
+    "updated_at": "2026-09-23T22:59:28.264Z",
+    "student": 43,
+    "organization": 3,
+    "date_joined": "2025-11-27"
+  }
+},
+{
+  "model": "studentorg.orgmember",
+  "pk": 6,
+  "fields": {
+    "created_at": "2026-09-23T22:59:28.276Z",
+    "updated_at": "2026-09-23T22:59:28.276Z",
+    "student": 2,
+    "organization": 10,
+    "date_joined": "2024-09-29"
+  }
+},
+{
+  "model": "studentorg.orgmember",
+  "pk": 7,
+  "fields": {
+    "created_at": "2026-09-23T22:59:28.288Z",
+    "updated_at": "2026-09-23T22:59:28.288Z",
+    "student": 5,
+    "organization": 10,
+    "date_joined": "2026-05-02"
+  }
+},
+{
+  "model": "studentorg.orgmember",
+  "pk": 8,
+  "fields": {
+    "created_at": "2026-09-23T22:59:28.301Z",
+    "updated_at": "2026-09-23T22:59:28.301Z",
+    "student": 40,
+    "organization": 10,
+    "date_joined": "2025-08-19"
+  }
+},
+{
+  "model": "studentorg.orgmember",
+  "pk": 9,
+  "fields": {
+    "created_at": "2026-09-23T22:59:28.314Z",
+    "updated_at": "2026-09-23T22:59:28.314Z",
+    "student": 51,
+    "organization": 4,
+    "date_joined": "2026-05-02"
+  }
+},
+{
+  "model": "studentorg.orgmember",
+  "pk": 10,
+  "fields": {
+    "created_at": "2026-09-23T22:59:28.325Z",
+    "updated_at": "2026-09-23T22:59:28.325Z",
+    "student": 2,
+    "organization": 1,
+    "date_joined": "2025-12-22"
+  }
+},
+{
+  "model": "studentorg.orgmember",
+  "pk": 11,
+  "fields": {
+    "created_at": "2026-09-23T22:59:28.337Z",
+    "updated_at": "2026-09-23T22:59:28.337Z",
+    "student": 41,
+    "organization": 10,
+    "date_joined": "2026-02-04"
+  }
+},
+{
+  "model": "studentorg.orgmember",
+  "pk": 12,
+  "fields": {
+    "created_at": "2026-09-23T22:59:28.349Z",
+    "updated_at": "2026-09-23T22:59:28.349Z",
+    "student": 22,
+    "organization": 10,
+    "date_joined": "2024-10-19"
+  }
+},
+{
+  "model": "studentorg.orgmember",
+  "pk": 13,
+  "fields": {
+    "created_at": "2026-09-27T02:31:21.157Z",
+    "updated_at": "2026-09-27T02:31:21.157Z",
+    "student": 1,
+    "organization": 7,
+    "date_joined": "2026-01-01"
+  }
+}
+]
