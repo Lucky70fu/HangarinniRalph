@@ -51,7 +51,7 @@ INSTALLED_APPS = [
 ]
 
 
-SITE_ID = 3 if os.environ.get("PYTHONANYWHERE_SITE") else 2
+SITE_ID = 2
 
 AUTHENTICATION_BACKENDS = [
     'django.contrib.auth.backends.ModelBackend',
